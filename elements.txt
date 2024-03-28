@@ -1,0 +1,13 @@
+ <h1 class="card-title pricing-card-title"><span id="temp2"></span><small class="text-muted fw-light"><span>&#8451;</span></small></h1>
+ 
+                    <li>Tempature is <span id="temp"></span></li>
+              //      <li>Min Temprature is <span id="min_temp"></span></li>
+               //     <li>Max Temprature is <span id="max_temp"></span></li>
+
+                    <h1 class="card-title pricing-card-title"><span id="humidity2"></span><small class="text-muted fw-light">%</small></h1>
+
+             //       <li>Cloud PCT is <span id="cloud_pct"></span></li>
+              //          <li>Feels Like <span id="feels_like"></span></li>
+                        <li>Humidity <span id="humidity"></span></li>
+                        <h1 class="card-title pricing-card-title"><span id="wind_speed2"></span><small class="text-muted fw-light">Km/h</small></h1>
+                        <li>Wind speed is <span id="wind_speed"></span></li>
