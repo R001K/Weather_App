@@ -9,7 +9,7 @@ const api = {
 		'X-RapidAPI-Key': '885db02a00msh0dc480e086d57c6p167035jsn9894b4454845',
 		'X-RapidAPI-Host': 'AccuWeatherstefan-skliarovV1.p.rapidapi.com'
 	},
-	body: encodedParams
+	// body: encodedParams
 };
 
 fetch('https://accuweatherstefan-skliarovv1.p.rapidapi.com/get24HoursConditionsByLocationKey', options)
